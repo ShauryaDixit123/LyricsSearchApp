@@ -1,5 +1,7 @@
-# LyricsSearchApp
+# Click here to view <a href ="https://shauryadixit123.github.io/LyricsSearchApp/">LyricsSearchApp</a>
+
 ## Lyrics App builded using HTML, CSS and JAVASCRIPT where you can search your song and get its lyrics...
+
 
 <h3>One can use this app to genrate lyrics, in this app, API is used to fetch data and use in our application</h3>
 
