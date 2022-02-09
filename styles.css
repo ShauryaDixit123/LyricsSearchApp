@@ -63,6 +63,8 @@ h1 {
   font-size: 14px;
   padding: 5px;
   cursor: pointer;
+  min-width: 75px !important;
+  min-height: 25px !important ;
 }
 .btn:active {
   transform: scale(0.95);
